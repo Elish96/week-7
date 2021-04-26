@@ -1,0 +1,13 @@
+*{
+    background-color: blanchedalmond;
+}
+
+.d-body{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.text{
+    margin: 0 40rem;
+}
